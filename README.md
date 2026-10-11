@@ -17,7 +17,7 @@
 
 ## 🇦🇷 Sobre mí
 
-Soy desarrolladora **Frontend** con más de 2 años de experiencia, radicada en **Argentina**. Trabajo como **freelancer** creando sitios y aplicaciones web claros, responsivos y agradables de usar.
+Soy desarrolladora **Frontend** con más de 5 años de experiencia, radicada en **Argentina**. Trabajo como **freelancer** creando sitios y aplicaciones web claros, responsivos y agradables de usar.
 
 - 💼 Trabajando en proyectos freelance.
 - 📚 Siempre aprendiendo y estudiando cosas nuevas.
@@ -26,7 +26,7 @@ Soy desarrolladora **Frontend** con más de 2 años de experiencia, radicada en 
 
 ## 🇬🇧 About me
 
-I'm a **Frontend** developer with 2+ years of experience, based in **Argentina**. I work as a **freelancer**, building clear, responsive and enjoyable websites and web apps.
+I'm a **Frontend** developer with 5+ years of experience, based in **Argentina**. I work as a **freelancer**, building clear, responsive and enjoyable websites and web apps.
 
 - 💼 Working on freelance projects.
 - 📚 Always learning and studying new things.
