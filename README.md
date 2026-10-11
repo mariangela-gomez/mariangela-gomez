@@ -53,26 +53,42 @@ I'm a **freelance web developer** with **5+ years of experience**, based in **Ar
 
 **IA, automatización y SEO / AI, automation & SEO**
 
-![Claude Code](https://img.shields.io/badge/Claude%20Code-0b1f33?style=for-the-badge&logo=claude&logoColor=D97757)
-![Claude Design](https://img.shields.io/badge/Claude%20Design-0b1f33?style=for-the-badge&logo=claude&logoColor=D97757)
-![Codex](https://img.shields.io/badge/Codex-0b1f33?style=for-the-badge&logo=openai&logoColor=white)
-![Make](https://img.shields.io/badge/Make-0b1f33?style=for-the-badge&logo=make&logoColor=white)
-![Search Console](https://img.shields.io/badge/Search%20Console-0b1f33?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-0b1f33?style=for-the-badge&logo=googleanalytics&logoColor=F9AB00)
+<p>
+<img src="assets/badges/claude-code.svg" alt="Claude Code" height="34">
+<img src="assets/badges/claude-design.svg" alt="Claude Design" height="34">
+<img src="assets/badges/codex.svg" alt="Codex" height="34">
+<img src="assets/badges/make.svg" alt="Make" height="34">
+<img src="assets/badges/search-console.svg" alt="Search Console" height="34">
+<img src="assets/badges/google-analytics.svg" alt="Google Analytics" height="34">
+</p>
 
 ## 🚀 Proyectos / Projects
 
-Una selección. Hay más en **[mariangelagomez.com/proyectos](https://mariangelagomez.com/proyectos)**.
-*A selection. More at **[mariangelagomez.com/proyectos](https://mariangelagomez.com/proyectos)**.*
+Los 20 proyectos de **[mariangelagomez.com/proyectos](https://mariangelagomez.com/proyectos)**.
+*The 20 projects from **[mariangelagomez.com/proyectos](https://mariangelagomez.com/proyectos)**.*
 
-| Proyecto | Sector · País |
-|---|---|
-| [Mad Materiales](https://mariangelagomez.com/proyectos/mad-materiales) | Tiendas y empresas · México |
-| [TecLab](https://mariangelagomez.com/proyectos/teclab) | Educación · Argentina |
-| [Docfav](https://mariangelagomez.com/proyectos/docfav) | Salud · España y Latinoamérica |
-| [Casa Laguna](https://mariangelagomez.com/proyectos/casa-laguna-restaurante) | Restaurantes · México |
-| [MEC Watches](https://mariangelagomez.com/proyectos/mec-watches) | Tiendas y empresas · Estados Unidos |
-| [Amar y Ya Café](https://mariangelagomez.com/proyectos/amar-y-ya-cafe) | Restaurantes · México |
+| Proyecto | Sector · País | Enlaces |
+|---|---|---|
+| **África Bañuls Centro Capilar** | Salud · España | [Ver proyecto](https://mariangelagomez.com/proyectos/africa-banuls-centro-capilar) · [Sitio web](https://abcentrocapilar.com/) |
+| **Agua de Luna Hotel Boutique** | Hoteles y turismo · México | [Ver proyecto](https://mariangelagomez.com/proyectos/agua-de-luna-hotel-boutique) · [Sitio web](https://aguadelunahotelboutique.com/) |
+| **Amar y Ya Café** | Restaurantes · México | [Ver proyecto](https://mariangelagomez.com/proyectos/amar-y-ya-cafe) · [Sitio web](https://amaryyacafe.com/) |
+| **Areia Beachfront Hotel** | Hoteles y turismo · México | [Ver proyecto](https://mariangelagomez.com/proyectos/areia-beachfront-hotel) · [Sitio web](https://areiabeachfronthotel.com/) |
+| **Areia Hotel** | Hoteles y turismo · México | [Ver proyecto](https://mariangelagomez.com/proyectos/areia-hotel) · [Sitio web](https://areiahotel.com/) |
+| **Azulea Hotel** | Hoteles y turismo · México | [Ver proyecto](https://mariangelagomez.com/proyectos/azulea-hotel) · [Sitio web](https://azuleaislamujeres.com/) |
+| **Casa Laguna Restaurante** | Restaurantes · México | [Ver proyecto](https://mariangelagomez.com/proyectos/casa-laguna-restaurante) · [Sitio web](https://casalagunarestaurante.com/) |
+| **Casa Real Sayulita** | Hoteles y turismo · México | [Ver proyecto](https://mariangelagomez.com/proyectos/casa-real-sayulita) · [Sitio web](https://casarealsayulita.com/) |
+| **Coba 42** | Tiendas y empresas · México | [Ver proyecto](https://mariangelagomez.com/proyectos/coba-42) · [Sitio web](https://coba42.mx/) |
+| **Coralia Hotel Cozumel** | Hoteles y turismo · México | [Ver proyecto](https://mariangelagomez.com/proyectos/coralia-hotel-cozumel) · [Sitio web](https://coraliahotelcozumel.com/) |
+| **Eventos Terra** | Tiendas y empresas · México | [Ver proyecto](https://mariangelagomez.com/proyectos/eventos-terra) · [Sitio web](https://eventosterra.com/) |
+| **Hotel Azulea** | Hoteles y turismo · México | [Ver proyecto](https://mariangelagomez.com/proyectos/hotel-azulea) · [Sitio web](https://hotelazuleabacalar.com/) |
+| **Hotel Malish** | Hoteles y turismo · México | [Ver proyecto](https://mariangelagomez.com/proyectos/hotel-malish) · [Sitio web](https://hotelmalish.com/) |
+| **Mad Materiales** | Tiendas y empresas · México | [Ver proyecto](https://mariangelagomez.com/proyectos/mad-materiales) · [Sitio web](https://madmaterialesgdl.com/) |
+| **MEC Watches** | Tiendas y empresas · Estados Unidos | [Ver proyecto](https://mariangelagomez.com/proyectos/mec-watches) · [Sitio web](https://www.mecwatches.com/) |
+| **Onmex** | Educación · México | [Ver proyecto](https://mariangelagomez.com/proyectos/onmex) · [Sitio web](https://onmex.mx/) |
+| **Preescolar Las Terrazas** | Educación · Venezuela | [Ver proyecto](https://mariangelagomez.com/proyectos/preescolar-las-terrazas) · [Sitio web](https://preescolarlasterrazas.com/) |
+| **Docfav** | Salud · España y Latinoamérica | [Ver proyecto](https://mariangelagomez.com/proyectos/docfav) · [Sitio web](https://pro.docfav.com/) |
+| **TecLab** | Educación · Argentina | [Ver proyecto](https://mariangelagomez.com/proyectos/teclab) · [Sitio web](https://teclab.edu.ar/) |
+| **Terasu** | Hoteles y turismo · México | [Ver proyecto](https://mariangelagomez.com/proyectos/terasu) · [Sitio web](https://terasurivieramaya.com/) |
 
 <div align="center">
 
