@@ -37,7 +37,13 @@ I'm a **Frontend** developer with 5+ years of experience, based in **Argentina**
 
 ## 🛠️ Stack
 
-![Stack](https://skillicons.dev/icons?i=react,js,php,css,html,wordpress&theme=dark)
+![Stack](https://skillicons.dev/icons?i=react,js,php,css,html,wordpress,firebase,figma&theme=dark)
+
+**IA y diseño / AI & design**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-0b1f33?style=for-the-badge&logo=claude&logoColor=D97757)
+![Claude Design](https://img.shields.io/badge/Claude%20Design-0b1f33?style=for-the-badge&logo=claude&logoColor=D97757)
+![Codex](https://img.shields.io/badge/Codex-0b1f33?style=for-the-badge&logo=openai&logoColor=white)
 
 <div align="center">
 
