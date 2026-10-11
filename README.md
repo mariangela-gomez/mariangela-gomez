@@ -1,26 +1,59 @@
-### Hi there <a href="https://www.mariangelacodelab.tech/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-This is the place where I opensource stuff and break things :rofl:
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2f80c8,100:0b1f33&text=Mariangela%20Gomez&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Freelancer&descColor=f2b84b&descSize=20&descAlignY=60" alt="Mariangela Gomez — Frontend Developer" />
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+**Construyo interfaces modernas, rápidas y cuidadas hasta el último detalle.**
 
-I am a Frontend Developer with 2+ years of experience.
+[![Portfolio](https://img.shields.io/badge/Portfolio-mariangelacodelab.tech-2f80c8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.mariangelacodelab.tech/)
+![Freelance](https://img.shields.io/badge/Modalidad-Freelancer-f2b84b?style=for-the-badge&labelColor=0b1f33)
+![Experiencia](https://img.shields.io/badge/Experiencia-2%2B%20a%C3%B1os-0b1f33?style=for-the-badge)
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 💼 &nbsp; Working as a Freelancer.
-- 🌱 &nbsp; Learning more about fullstack development.
-- 👨‍💻 &nbsp;Read more about my projects at [mariangelacodelab.tech](https://mariangelacodelab.tech)
+</div>
 
+---
 
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-  <br/>
-  <p align="left"><a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a></p>
+## 👩‍💻 Sobre mí
 
-</details>
+Soy desarrolladora **Frontend** con más de 2 años de experiencia. Trabajo como **freelancer**, transformando ideas en sitios y aplicaciones web claras, responsivas y agradables de usar.
 
+- 🔭 Explorando nuevas tecnologías y desarrollando soluciones de software.
+- 🌱 Aprendiendo más sobre desarrollo **fullstack**.
+- 🎨 Me gusta el diseño cuidado y las animaciones que le dan vida a una interfaz.
+- 📖 Mis proyectos, en [mariangelacodelab.tech](https://www.mariangelacodelab.tech/).
 
+## 🛠️ Stack
 
+**Frontend**
 
+![Frontend](https://skillicons.dev/icons?i=html,css,sass,js,react,bootstrap&theme=dark)
 
+**Backend y bases de datos**
 
+![Backend](https://skillicons.dev/icons?i=nodejs,php,python,cpp,mongodb,mysql,mssql&theme=dark)
+
+**Herramientas y nube**
+
+![Tools](https://skillicons.dev/icons?i=git,github,gcp,grafana&theme=dark)
+
+## 🚀 Proyecto destacado
+
+### ✈️ Tango Travel
+
+Sitio web para una agencia de viajes por Argentina, con un diseño moderno y animaciones con **GSAP** y **ScrollTrigger**: portada con parallax, tarjetas de destinos, servicios, comentarios de viajeros y formulario de contacto, todo adaptado a celular.
+
+![HTML5](https://img.shields.io/badge/HTML5-0b1f33?style=flat-square&logo=html5&logoColor=f2b84b)
+![CSS3](https://img.shields.io/badge/CSS3-0b1f33?style=flat-square&logo=css3&logoColor=2f80c8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b1f33?style=flat-square&logo=javascript&logoColor=f2b84b)
+![GSAP](https://img.shields.io/badge/GSAP-0b1f33?style=flat-square&logo=greensock&logoColor=88ce02)
+
+[Ver el código →](https://github.com/mariangela-gomez/tangotravel)
+
+## 🤝 Trabajemos juntos
+
+¿Tienes un proyecto en mente? Visita mi [portfolio](https://www.mariangelacodelab.tech/) y conversemos.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0b1f33,100:2f80c8&section=footer" alt="" />
+
+</div>
