@@ -7,6 +7,7 @@
 *I build modern, fast, carefully crafted interfaces.*
 
 [![Web](https://img.shields.io/badge/Web-mariangelagomez.com-2f80c8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mariangelagomez.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mariangelagomez-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariangelagomez/)
 [![Email](https://img.shields.io/badge/Email-info%40mariangelagomez.com-f2b84b?style=for-the-badge&logo=gmail&logoColor=0b1f33&labelColor=0b1f33)](mailto:info@mariangelagomez.com)
 ![Ubicación](https://img.shields.io/badge/Argentina-0b1f33?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Idiomas](https://img.shields.io/badge/Espa%C3%B1ol%20%C2%B7%20English-0b1f33?style=for-the-badge&logo=googletranslate&logoColor=white)
@@ -23,6 +24,7 @@ Soy desarrolladora **Frontend** con más de 5 años de experiencia, radicada en 
 - 📚 Siempre aprendiendo y estudiando cosas nuevas.
 - 🌐 Mis proyectos, en [mariangelagomez.com](https://mariangelagomez.com).
 - 📫 Escríbeme a [info@mariangelagomez.com](mailto:info@mariangelagomez.com).
+- 💼 Conectemos en [LinkedIn](https://www.linkedin.com/in/mariangelagomez/).
 
 ## 🇬🇧 About me
 
@@ -32,6 +34,7 @@ I'm a **Frontend** developer with 5+ years of experience, based in **Argentina**
 - 📚 Always learning and studying new things.
 - 🌐 See my projects at [mariangelagomez.com](https://mariangelagomez.com).
 - 📫 Get in touch: [info@mariangelagomez.com](mailto:info@mariangelagomez.com).
+- 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/mariangelagomez/).
 
 ---
 
